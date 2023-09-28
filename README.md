@@ -1,6 +1,6 @@
 # King Domino Game
 
-![King Domino Banner](king_domino_banner.jpg)
+![King Domino Banner](kingdomino+banner.jpg)
 
 Welcome to the King Domino game, a digital adaptation of the popular board game "Kingdomino."
 
