@@ -20,7 +20,7 @@ To play the King Domino game, follow these steps:
 
    - Open the [latest release](https://github.com/abdlaqeel/COMP2005-GroupProject/blob/main/Group%205%20Iteration%204/kingDomino.jar) of the game.
 
-   - Download the JAR file (`kingDomino.jarr`) to your computer.
+   - Download the JAR file (`kingDomino.jar`) to your computer.
 
 2. **Run the Game:**
 
